@@ -1,2 +1,2 @@
-# LiveBlog
-Blogging Website Project
+# DBMSproject
+College project
